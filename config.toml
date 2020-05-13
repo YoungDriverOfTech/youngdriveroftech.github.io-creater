@@ -1,0 +1,4 @@
+baseURL = "https://YoungDriverOfTech.github.io/"
+languageCode = "zh-Hans"
+title = "梁的博客"
+theme = "ananke"
